@@ -1,5 +1,3 @@
-# chicago-crime-analysis
-Data analysis &amp; visualization of the Chicago crime dataset using Python and PostgreSQL.
 # Chicago Crime Data Analysis (EDA & Geospatial Visualization)
 
 This project explores a sample of Chicago crime records using **Python**, **Pandas**, **Matplotlib**, and **Folium** to uncover patterns in crime types, arrest outcomes, time trends, and geographic distribution.
